@@ -1,4 +1,4 @@
 Hi 
-this is python prgtsam
+this is py prgtsam
 
 going on online teaching
