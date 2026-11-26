@@ -1,4 +1,4 @@
 Hi 
-this is python prgtsam
+this is ai prgtsam
 
 go on online teaching
